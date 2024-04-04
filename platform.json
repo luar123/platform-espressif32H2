@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/platformio/platform-espressif32.git"
+    "url": "https://github.com/luar123/platform-espressif32H2.git"
   },
-  "version": "6.6.0",
+  "version": "6.6.1",
   "frameworks": {
     "arduino": {
       "package": "framework-arduinoespressif32",
